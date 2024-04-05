@@ -20,6 +20,6 @@ let package = Package(
         .binaryTarget(
             name: "ContextualSDK",
             url:"https://repo.contextu.al/artifactory/contextual/ios/dev/ContextualSDK.xcframework.zip",
-            checksum: "cdca6729b89620979705c67b15a0053281b383a6313ada34ac7b3759d56fcddf")
+            checksum: "33d8f024fc74ff8670fb4d0b61c347d48a8afb589df6ac72ed0984da7d49ff51")
     ]
 )
